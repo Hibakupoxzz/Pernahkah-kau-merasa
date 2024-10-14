@@ -1,4 +1,4 @@
-elem = document.getElementById("tira")
+const elem = document.getElementById("tira")
 
 elem.addEventlistener("click", () => {
 	alert("Berhasil")
