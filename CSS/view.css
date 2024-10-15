@@ -1,0 +1,9 @@
+body {
+    background-color: white; 
+}
+img{
+    width: 100%;
+}
+.view {
+    columns: 300px;
+}
